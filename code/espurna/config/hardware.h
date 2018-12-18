@@ -346,6 +346,10 @@
     #define RELAY1_PIN          12
     #define RELAY1_TYPE         RELAY_TYPE_NORMAL
 
+    // Reed switch
+    #define RELAY2_PIN          14
+    #define RELAY2_TYPE         RELAY_TYPE_INVERSE
+
     // LEDs
     #define LED1_PIN            13
     #define LED1_PIN_INVERSE    1
