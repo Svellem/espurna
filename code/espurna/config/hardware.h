@@ -347,8 +347,8 @@
     #define RELAY1_TYPE         RELAY_TYPE_NORMAL
 
     // Reed switch
-    #define RELAY2_PIN          14
-    #define RELAY2_TYPE         RELAY_TYPE_INVERSE
+    #define BUTTON2_PIN         14
+    #define BUTTON2_MODE        BUTTON_SWITCH
 
     // LEDs
     #define LED1_PIN            13
